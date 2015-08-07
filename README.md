@@ -1,4 +1,5 @@
-[프록시 서버](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9D%EC%8B%9C_%EC%84%9C%EB%B2%84) + [텀블러](tumblr.com) + 노동력 = 즉석 웹사이트 제조
+[프록시 서버](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9D%EC%8B%9C_%EC%84%9C%EB%B2%84) + 텀블러 + 노동력 = 즉석 웹사이트 제조
+---
 
 ![프록시](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schematic_Proxy_Server.svg/700px-Schematic_Proxy_Server.svg.png)
 
